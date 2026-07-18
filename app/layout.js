@@ -18,6 +18,9 @@ export const metadata = {
   title: "RK Consultant | Commercial Real Estate Experts in Mohali & Chandigarh",
   description: "RK Consultant is Punjab's leading commercial real estate advisory. Find premium offices, showrooms, retail shops, and warehouses in Mohali, Chandigarh, and surrounding areas. Managed by founder Ravi Kant.",
   keywords: "Commercial Real Estate, Mohali, Chandigarh, Office space for rent, Showroom for rent, Retail shop, Warehouse, Ravi Kant, RK Consultant, Real Estate Agent Mohali",
+  verification: {
+    google: "nTk9236I_TPFzAntZk2fViClNY3Sk_h-GO2wRNmZz9U",
+  },
 };
 
 export default function RootLayout({ children }) {
